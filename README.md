@@ -23,4 +23,4 @@ Jupyter Notebook of Census data from 1960 to 2022
 ### Notably, full-time female workers account for 65.6% of the total female workforce, while part-time female workers represent 34.4%.
 ### This visualization provides a clear snapshot of the employment status of female workers in 2022, showcasing the prevalence of full-time employment among this demographic.
 ### It's worth noting that out of the 62 years of data covered in this Census report, the year 2022 stands out with the highest percentage of full-time female workers compared to part-time workers, indicating a significant milestone in gender-specific labor dynamics.
-![Female 2022](
+![Female 2022](https://github.com/itcoder78/CensusData62YRS/blob/main/Female%20Workers.png)
