@@ -12,3 +12,7 @@ Jupyter Notebook of Census data from 1960 to 2022
 ### Just like the male bar graph above, this visualization offers insights into the workforce composition and the prevalence of full-time employment among female workers. By comparing these categories, we can gain valuable insights into gender-specific labor dynamics and trends over time.
 
 ![Female Workers](https://github.com/itcoder78/CensusData62YRS/blob/main/Female%20Workers.png)
+
+## Male Full-Time vs Total Workers 2022
+### The pie graph below illustrates the percentage distribution of male workers in full-time and part-time employment categories for the year 2022. In this depiction, it is evident that full-time male workers constitute the majority, comprising 75.9% of the total male workforce, while part-time male workers represent 24.1%.
+### This visualization provides a clear and concise overview of the employment status of male workers in 2022, highlighting the dominance of full-time employment among this demographic.
