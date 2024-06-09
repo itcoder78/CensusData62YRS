@@ -1,5 +1,12 @@
 # CensusData62YRS
 Jupyter Notebook of Census data from 1960 to 2022
+## Male vs Female total number of workers and total number of full-time workers
+### The first line graph illustrates the total number of male and female workers over time, providing insight into the overall workforce composition across genders.
+### By examining this graph, we can observe any trends or fluctuations in the total number of workers within each gender category over the years.
+### The second line graph depicts the number of full-time male and female workers over the same time period, offering a more detailed view of the distribution of full-time employment across genders. 
+### This visualization enables us to compare the progression of full-time employment among males and females over the years and identify any notable patterns or disparities in workforce participation.
+
+
 
 ## Male Total Workers and Full-time workers
 ### The following bar graph provides a visual representation of the total number of male workers and the total number of full-time workers.
